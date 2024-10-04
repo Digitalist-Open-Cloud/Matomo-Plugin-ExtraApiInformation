@@ -1,4 +1,4 @@
-# Matomo ExtraApiInformation Plugin
+# Matomo Extra Api Information
 
 ## Description
 
@@ -17,7 +17,7 @@ Why expose this information? There are couple of use cases:
 
 - Automation: Having this metrics available opens up for more automation around Matomo.
 - Matomo Exporter: Using the [Matomo Prometheus exporter](https://github.com/Digitalist-Open-Cloud/Matomo-CLI?tab=readme-ov-file#prometheus-exporter), you could activate this metrics.
-- Why not? :)
+- Why not? ❤️
 
 ## License
 
