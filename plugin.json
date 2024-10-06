@@ -1,17 +1,22 @@
 {
   "name": "ExtraApiInformation",
   "description": "Exposes some information via API that is not normally available",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "theme": false,
   "require": {
-    "matomo": ">=5.0.0-stable,<6.0.0-b1"
+    "matomo": ">=5.0.0-b1,<6.0.0-b1"
   },
   "authors": [
     {
       "name": "Digitalist Open Cloud",
       "email": "cloud@digitalist.com",
       "homepage": "https://digitalist.cloud"
-    }
+    },
+    {
+        "name": "Mikke Schirén",
+        "email": "mikke.schiren@digitalist.com",
+        "homepage": "https://digitalist.cloud"
+      }
   ],
   "support": {
     "email": "cloud@digitalist.com",
