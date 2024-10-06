@@ -8,8 +8,8 @@ Please note that the information is only available for super users (admin role).
 
 | API                | Information        | Options            |
 | ------------------ | ------------------ | ------------------ |
-| `getArchivingStatus` | Shows status of archiving (last started and finished) | human date format (human=1) |
-| `getInvalidationsCount` | Get number of invalidations (total, queued, in progress) | - |
+| `ExtraApiInformation.getArchivingStatus` | Shows status of archiving (last started and finished) | human date format (human=1) |
+| `ExtraApiInformation.getInvalidationsCount` | Get number of invalidations (total, queued, in progress) | - |
 
 ## Use cases
 

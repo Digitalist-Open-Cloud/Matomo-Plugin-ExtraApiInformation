@@ -1,29 +1,25 @@
 {
-    "name": "ExtraApiInformation",
-    "description": "Exposes some information via API that is not normally visible",
-    "version": "0.1.0",
-    "theme": false,
-    "require": {
-        "matomo": ">=5.1.2-stable,<6.0.0-b1"
-    },
-    "authors": [
-        {
-            "name": "Matomo",
-            "email": "",
-            "homepage": ""
-        }
-    ],
-    "support": {
-        "email": "",
-        "issues": "",
-        "forum": "",
-        "irc": "",
-        "wiki": "",
-        "source": "",
-        "docs": "",
-        "rss": ""
-    },
-    "homepage": "",
-    "license": "GPL v3+",
-    "keywords": []
+  "name": "ExtraApiInformation",
+  "description": "Exposes some information via API that is not normally available",
+  "version": "0.1.0",
+  "theme": false,
+  "require": {
+    "matomo": ">=5.0.0-stable,<6.0.0-b1"
+  },
+  "authors": [
+    {
+      "name": "Digitalist Open Cloud",
+      "email": "cloud@digitalist.com",
+      "homepage": "https://digitalist.cloud"
+    }
+  ],
+  "support": {
+    "email": "cloud@digitalist.com",
+    "docs": "https://github.com/Digitalist-Open-Cloud/Matomo-Plugin-ExtraApiInformation",
+    "issues": "https://github.com/Digitalist-Open-Cloud/Matomo-Plugin-ExtraApiInformation/issues",
+    "source": "https://github.com/Digitalist-Open-Cloud/Matomo-Plugin-ExtraApiInformation"
+  },
+  "homepage": "",
+  "license": "GPL v3+",
+  "keywords": []
 }
